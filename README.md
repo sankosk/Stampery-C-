@@ -23,3 +23,7 @@ Console.WriteLine(c.GetStamp("8d35d6a20140ac7dac9fdb9f51627899b20749ea87609f3a5d
 ![screen](https://i.gyazo.com/963a28812757497357af2f85eca03a17.png)
 
 
+## The Code
+
+![api](https://github.com/sankosk/Stampery-C-/blob/master/Stampery/ClassLibrary1/Client.cs)
+![program](https://github.com/sankosk/Stampery-C-/blob/master/Stampery/ClassLibrary1/Client.cs)
