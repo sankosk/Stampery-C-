@@ -25,6 +25,6 @@ Console.WriteLine(c.GetStamp("8d35d6a20140ac7dac9fdb9f51627899b20749ea87609f3a5d
 
 ## The Code
 
-![api](https://github.com/sankosk/Stampery-C-/blob/master/Stampery/ClassLibrary1/Client.cs)
-![program](https://github.com/sankosk/Stampery-C-/blob/master/Stampery/Example/Program.cs)
-![Auth Test](https://github.com/sankosk/Stampery-C-/blob/master/Stampery/ApiTest/UnitTest1.cs)
+The api code: ![api](https://github.com/sankosk/Stampery-C-/blob/master/Stampery/ClassLibrary1/Client.cs)  
+An example program: ![program](https://github.com/sankosk/Stampery-C-/blob/master/Stampery/Example/Program.cs)  
+Authentification Unit Test: ![Auth Test](https://github.com/sankosk/Stampery-C-/blob/master/Stampery/ApiTest/UnitTest1.cs)  
