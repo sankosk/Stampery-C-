@@ -24,21 +24,17 @@ namespace API
             else         EndPoint = "https://stampery-api-beta.herokuapp.com/v2";
         }
 
-        
-        public void Stamp(string data, string file) {
-
-        }
-
         public string GetStamp(string stampHash) {
             WebRequest req = WebRequest.Create(EndPoint + "/stamps/" + stampHash);
             WebResponse resp = req.GetResponse();
+
+            var httpResponse = (HttpWebResponse)req.GetResponse();
+            bool success = ((int)httpResponse.StatusCode) >= 200 && ((int)httpResponse.StatusCode) < 300;
+            if (!success) throw new WebException("Error sending the request");
+
             StreamReader reader = new StreamReader(resp.GetResponseStream());
             string responseFromServer = reader.ReadToEnd();
             return responseFromServer;
-        }
-
-        private string GetClientID() {
-            return default(string);
         }
 
         public string StampFile(Dictionary<string, string> data, string filePath) {
@@ -51,11 +47,14 @@ namespace API
 
             web.QueryString = parameters;
             var responseBytes = web.UploadFile(EndPoint + "/stamps/", filePath);
+
             string response = Encoding.ASCII.GetString(responseBytes);
             return response;
         }
 
         public string StampData(string data) {
+            if (data == "" || data.Equals("")) throw new ArgumentException("Empty data");
+
             var httpWebRequest = (HttpWebRequest)WebRequest.Create(EndPoint + "/stamps/");
             httpWebRequest.Headers.Add("Authorization", "Basic " + GetAuth());
             httpWebRequest.ContentType = "application/json";
@@ -69,6 +68,9 @@ namespace API
             }
 
             var httpResponse = (HttpWebResponse)httpWebRequest.GetResponse();
+            bool success = ((int)httpResponse.StatusCode) >= 200 && ((int)httpResponse.StatusCode) < 300;
+            if (!success) throw new WebException("Error sending the request");
+
             using (var streamReader = new StreamReader(httpResponse.GetResponseStream()))
             {
                 return streamReader.ReadToEnd();
@@ -76,14 +78,7 @@ namespace API
         }
 
         internal string GetAuth() {
-            return HashUtils.GetBase64(TakeN(HashUtils.GetMD5(ApiKey), 15) + ":" + ApiKey);
-        }
-
-        internal string TakeN(string data, int n) {
-            data = data.ToLower();
-            string res = "";
-            for (int i = 0; i < n; i++) res += data[i];
-            return res;
+            return HashUtils.GetBase64(HashUtils.GetMD5(ApiKey).ToLower().Substring(0, 15) + ":" + ApiKey);
         }
     }
 

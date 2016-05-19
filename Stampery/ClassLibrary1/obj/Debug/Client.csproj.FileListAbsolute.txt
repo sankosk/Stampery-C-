@@ -8,3 +8,8 @@ C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ClassLibrary1\bin\Debug\ClassLibra
 C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ClassLibrary1\obj\Debug\Client.csprojResolveAssemblyReference.cache
 C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\ClassLibrary1\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

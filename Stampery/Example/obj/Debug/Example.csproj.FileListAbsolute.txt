@@ -14,3 +14,11 @@ C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\bin\Debug\Example.pdb
 C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\bin\Debug\ClassLibrary1.dll
 C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\bin\Debug\ClassLibrary1.pdb
 C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\Example\bin\Debug\Example.exe.config
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\Example\obj\Debug\Example.exe
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\Example\obj\Debug\Example.pdb
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\Example\bin\Debug\Example.exe
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\Example\bin\Debug\Example.pdb
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\Example\bin\Debug\ClassLibrary1.dll
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\Example\bin\Debug\ClassLibrary1.pdb
+C:\Users\EstebanMontesMorales\Desktop\Stampery-C-\Stampery\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
