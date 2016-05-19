@@ -1,0 +1,9 @@
+c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\bin\Debug\ApiTest.dll
+c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\bin\Debug\ApiTest.pdb
+c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\obj\Debug\ApiTest.csprojResolveAssemblyReference.cache
+c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\obj\Debug\ApiTest.dll
+c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\obj\Debug\ApiTest.pdb
+c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\bin\Debug\ClassLibrary1.dll
+c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\bin\Debug\ClassLibrary1.pdb
