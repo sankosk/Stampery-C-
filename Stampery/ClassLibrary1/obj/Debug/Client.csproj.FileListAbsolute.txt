@@ -3,3 +3,8 @@ c:\users\esteban\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrar
 c:\users\esteban\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\Client.csprojResolveAssemblyReference.cache
 c:\users\esteban\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 c:\users\esteban\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ClassLibrary1\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

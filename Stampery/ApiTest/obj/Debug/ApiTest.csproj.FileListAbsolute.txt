@@ -7,3 +7,12 @@ c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\obj
 c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\obj\Debug\ApiTest.pdb
 c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\bin\Debug\ClassLibrary1.dll
 c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\ApiTest\bin\Debug\ClassLibrary1.pdb
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ApiTest\bin\Debug\ApiTest.dll
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ApiTest\bin\Debug\ApiTest.pdb
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ApiTest\bin\Debug\ClassLibrary1.dll
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ApiTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ApiTest\bin\Debug\ClassLibrary1.pdb
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ApiTest\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ApiTest\obj\Debug\ApiTest.csprojResolveAssemblyReference.cache
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ApiTest\obj\Debug\ApiTest.dll
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\ApiTest\obj\Debug\ApiTest.pdb

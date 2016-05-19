@@ -6,3 +6,11 @@ c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\Example\bin
 c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
 c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\Example\obj\Debug\Example.exe
 c:\Users\Esteban\documents\visual studio 2015\Projects\ClassLibrary1\Example\obj\Debug\Example.pdb
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\bin\Debug\Example.exe.config
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\obj\Debug\Example.exe
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\obj\Debug\Example.pdb
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\bin\Debug\Example.exe
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\bin\Debug\Example.pdb
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\bin\Debug\ClassLibrary1.dll
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\bin\Debug\ClassLibrary1.pdb
+C:\Users\Esteban\Desktop\Stampery-C-\Stampery\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache

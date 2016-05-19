@@ -75,12 +75,10 @@ namespace API
             }
         }
 
-        [assembly: System.Runtime.CompilerServices.InternalsVisibleToAttribute("Client.ApiTest")]
         internal string GetAuth() {
             return HashUtils.GetBase64(TakeN(HashUtils.GetMD5(ApiKey), 15) + ":" + ApiKey);
         }
 
-        [assembly: System.Runtime.CompilerServices.InternalsVisibleToAttribute("Client.ApiTest")]
         internal string TakeN(string data, int n) {
             data = data.ToLower();
             string res = "";
